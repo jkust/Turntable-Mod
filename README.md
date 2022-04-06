@@ -30,7 +30,7 @@ You may add an additional power switch
 - Re-install the pcb and solder back the two wires to the battery compartment
 - Secure wires with some hot glue so they don't snap off (make sure the wires will not touch the rotating top)
 - Programm the Arduino (you will need the AccelStepper library)
-- Test the functionallity
+- Test the functionality
 - Hot glue the Arduino onto the base in such angle you still can access the USB port
 - Put the top cover back on
 
