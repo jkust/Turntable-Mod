@@ -6,6 +6,10 @@ After the mod is installed you will be able to adjust the turntable speed by hol
 It will increase the speed to max and then reduce it back to min and so on  
 If you feel that the range is too big, adjust the maxspeed value to your needs
 
+## Note
+Battery operation is no longer suggested as the Arduino will drain the batteries fast  
+You may add an additional power switch
+
 ## You will need
 - Arduino Nano (any other Arduino will probably work as well)
 - Some tiny wires
